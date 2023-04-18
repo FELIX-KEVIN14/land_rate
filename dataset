@@ -1,0 +1,21 @@
+location,land_size,terrain,land_rate,date
+Location A,1200,hilly,4000000,2020-01-01
+Location B,800,flat,3000000,2020-01-01
+Location C,1000,slope,3500000,2020-01-01
+Location D,1500,hilly,4500000,2020-01-01
+Location E,2000,flat,5000000,2020-01-01
+Location F,900,slope,3200000,2020-01-01
+Location G,1300,hilly,4200000,2020-01-01
+Location H,1500,flat,4500000,2020-01-01
+Location I,1000,slope,3500000,2020-01-01
+Location J,1200,hilly,4000000,2020-01-01
+Location A,1400,hilly,4200000,2020-01-02
+Location B,1000,flat,3500000,2020-01-02
+Location C,1200,slope,4000000,2020-01-02
+Location D,1600,hilly,4700000,2020-01-02
+Location E,2100,flat,5200000,2020-01-02
+Location F,1000,slope,3500000,2020-01-02
+Location G,1400,hilly,4200000,2020-01-02
+Location H,1600,flat,4700000,2020-01-02
+Location I,1200,slope,4000000,2020-01-02
+Location J,1400,hilly,4200000,2020-01-02
